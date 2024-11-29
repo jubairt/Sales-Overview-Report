@@ -7,7 +7,7 @@ This project visualizes sales data across various regions using **Power BI**, pr
 - **Power BI Desktop** for creating the interactive dashboard.
 
 ## Dataset
-- Dataset used: https://github.com/jubairt/Sales-Overview-Report/blob/main/Sales%20Overview%20Data.xlsx
+- Dataset used: https://github.com/jubairt/Sales_Overview-_Report/blob/main/Sales%20Overview%20Data.xlsx
 
 ## KPIs
 - **Current Year Sales (CY Sales)**
@@ -25,7 +25,7 @@ This project visualizes sales data across various regions using **Power BI**, pr
 3. Filters and slicers were added for dynamic exploration.
 
 ## Dashboard Image
-https://github.com/jubairt/Sales-Overview-Report/blob/main/Project%20Screenshot.png
+https://github.com/jubairt/Sales_Overview-_Report/blob/main/Sales%20Overview%20Screenshot.png
 
 ## Project Insights
 - The dashboard helps in comparing sales performance across regions.
